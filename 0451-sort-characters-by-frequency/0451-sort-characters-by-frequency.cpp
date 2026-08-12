@@ -11,8 +11,9 @@ public:
         string ans="";
         while(!p.empty()){
             int x=p.top().first;
+            char c=p.top().second;
             while(x--){
-                ans+=p.top().second;
+                ans+=c;
             }
             p.pop();
         }
