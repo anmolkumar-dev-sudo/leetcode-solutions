@@ -30,9 +30,8 @@ public:
                     q.push(x->right);
                 }
             }
-            ans.push_back(temp);
+            ans.insert(ans.begin(),temp);
         }
-        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
