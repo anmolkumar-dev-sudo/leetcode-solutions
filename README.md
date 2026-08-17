@@ -25,6 +25,7 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1143-longest-common-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +88,12 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
