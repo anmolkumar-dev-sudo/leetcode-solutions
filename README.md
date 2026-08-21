@@ -65,6 +65,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -76,6 +77,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -87,6 +89,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
 |  |
@@ -101,4 +104,8 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
