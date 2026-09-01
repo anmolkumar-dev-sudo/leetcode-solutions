@@ -20,6 +20,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0001-two-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0001-two-sum) |
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -35,6 +36,7 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -72,10 +74,12 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -85,6 +89,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,6 +121,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
