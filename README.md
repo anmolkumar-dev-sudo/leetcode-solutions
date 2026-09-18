@@ -21,6 +21,7 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -28,11 +29,13 @@ this repo contains all my leetcode solutions that i have done yet.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
