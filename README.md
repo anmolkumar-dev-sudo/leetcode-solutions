@@ -41,6 +41,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +164,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0054-spiral-matrix](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Manacher
 |  |
 | ------- |
