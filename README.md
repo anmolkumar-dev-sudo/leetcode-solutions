@@ -17,6 +17,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [1004-max-consecutive-ones-iii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -69,6 +70,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
