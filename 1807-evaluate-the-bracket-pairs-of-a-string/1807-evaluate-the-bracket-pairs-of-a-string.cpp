@@ -9,7 +9,6 @@ public:
         }
         string p="";
         for(int i=0;i<n;i++){
-            ans="";
             if(s[i]=='('){
                 while(s[i]!=')'){
                     i++;
@@ -20,6 +19,7 @@ public:
                 else p+=freq[ans];    
             }
             else p+=s[i];
+            ans.clear();
         }
         return p;
     }
