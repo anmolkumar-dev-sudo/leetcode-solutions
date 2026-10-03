@@ -73,6 +73,7 @@ this repo contains all my leetcode solutions that i have done yet.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -136,6 +137,7 @@ this repo contains all my leetcode solutions that i have done yet.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -200,4 +202,8 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
