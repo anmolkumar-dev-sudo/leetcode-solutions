@@ -49,6 +49,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0022-generate-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -196,6 +197,7 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Geometry
 |  |
@@ -204,6 +206,7 @@ this repo contains all my leetcode solutions that i have done yet.
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
 |  |
@@ -213,4 +216,8 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
