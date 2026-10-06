@@ -26,6 +26,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0001-two-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -74,6 +75,7 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -170,6 +172,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0005-longest-palindromic-substring](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0202-happy-number](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0202-happy-number) |
 ## Matrix
 |  |
 | ------- |
@@ -206,4 +209,8 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
