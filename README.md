@@ -81,6 +81,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0002-add-two-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -100,6 +101,7 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0436-find-right-interval) |
+| [0633-sum-of-square-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Tree
@@ -177,6 +179,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0202-happy-number) |
+| [0633-sum-of-square-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Matrix
 |  |
