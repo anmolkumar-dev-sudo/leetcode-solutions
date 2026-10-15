@@ -4,10 +4,10 @@ public:
         int n=nums.size();
         int sum=0;
         for(int i=0;i<n;i++){
-            set<int>s;
+            unordered_map<int,int>freq;
             for(int j=i;j<n;j++){
-                s.insert(nums[j]);
-                sum+=(s.size())*(s.size());
+                freq[nums[j]]++;
+                sum+=(freq.size())*(freq.size());
             }
         }
         return sum;
