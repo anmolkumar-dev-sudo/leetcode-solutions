@@ -20,6 +20,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -36,6 +37,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,6 +66,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0436-find-right-interval](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
