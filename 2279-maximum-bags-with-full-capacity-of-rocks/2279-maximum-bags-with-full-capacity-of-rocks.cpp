@@ -3,17 +3,16 @@ public:
     int maximumBags(vector<int>& c, vector<int>& r, int extra) {
         int n=c.size();
         long long diff=0;
-        vector<int>ans;
         for(int i=0;i<n;i++){
             diff+=(c[i]-r[i]);
-            ans.push_back(c[i]-r[i]);
+            c[i]=(c[i]-r[i]);
         }
         if(extra>=diff)return n;
-        sort(ans.begin(),ans.end());
+        sort(c.begin(),c.end());
         int cnt=0;
-        for(int i=0;i<ans.size();i++){
-            if(extra-ans[i]>=0 || ans[i]==0){
-                extra-=ans[i];
+        for(int i=0;i<n;i++){
+            if(extra-c[i]>=0 || c[i]==0){
+                extra-=c[i];
                 cnt++;
             }
         }
