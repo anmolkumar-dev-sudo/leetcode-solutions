@@ -54,6 +54,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0005-longest-palindromic-substring](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0224-basic-calculator](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -89,6 +90,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0002-add-two-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -223,12 +225,14 @@ this repo contains all my leetcode solutions that i have done yet.
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
