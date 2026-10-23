@@ -6,6 +6,7 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -69,6 +70,7 @@ this repo contains all my leetcode solutions that i have done yet.
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0018-4sum) |
 | [0436-find-right-interval](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -192,6 +194,7 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0202-happy-number) |
