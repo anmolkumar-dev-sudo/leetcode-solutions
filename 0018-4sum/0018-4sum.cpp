@@ -15,7 +15,6 @@ public:
                         ans.push_back({nums[a],nums[b],nums[c],nums[d]});
                         c++,d--;
                         while(c<d && nums[c]==nums[c-1])c++;
-                        while(c<d && nums[d]==nums[d+1])d--;
                     }
                     else if(sum>t)d--;
                     else c++;
