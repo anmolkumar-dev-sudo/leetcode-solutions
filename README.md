@@ -18,6 +18,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0930-binary-subarrays-with-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1049-last-stone-weight-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -174,6 +175,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0005-longest-palindromic-substring](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [1049-last-stone-weight-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 ## Longest Common Subsequence
@@ -277,4 +279,12 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
