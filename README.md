@@ -28,6 +28,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+| [4040-minimum-operations-to-form-subset-sum-i](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +175,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0022-generate-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [4040-minimum-operations-to-form-subset-sum-i](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
 ## Longest Common Subsequence
 |  |
 | ------- |
