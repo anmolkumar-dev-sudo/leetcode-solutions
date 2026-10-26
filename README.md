@@ -16,6 +16,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0436-find-right-interval](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1004-max-consecutive-ones-iii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1049-last-stone-weight-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
@@ -77,6 +78,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0018-4sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0018-4sum) |
 | [0436-find-right-interval](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -95,6 +97,7 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Math
 |  |
 | ------- |
@@ -261,6 +264,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
