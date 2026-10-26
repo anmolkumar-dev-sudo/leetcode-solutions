@@ -6,7 +6,7 @@ public:
         int cnt=0;
         sort(nums.begin(),nums.end());
         for(int i=0;i<n;i++){
-            while(i>0 && s.find(nums[i])!=s.end()){
+            if(i>0 && s.find(nums[i])!=s.end()){
                 cnt+=abs(nums[i]-nums[i-1])+1;
                 nums[i]=nums[i-1]+1;
             }
