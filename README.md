@@ -13,6 +13,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0059-spiral-matrix-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0239-sliding-window-maximum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0419-battleships-in-a-board](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0436-find-right-interval](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -192,6 +193,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0419-battleships-in-a-board](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Lifting
@@ -217,6 +219,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0054-spiral-matrix](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0419-battleships-in-a-board](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
