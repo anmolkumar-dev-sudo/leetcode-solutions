@@ -9,6 +9,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0018-4sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -181,6 +182,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1049-last-stone-weight-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -267,6 +269,7 @@ this repo contains all my leetcode solutions that i have done yet.
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0680-valid-palindrome-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
