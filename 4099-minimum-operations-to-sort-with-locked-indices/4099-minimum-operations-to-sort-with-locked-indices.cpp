@@ -6,7 +6,7 @@ public:
         auto felnorqavi=make_pair(nums,loc);
 
         for(int i=0;i<n-1;i++){
-            for(int j=0;j<n-1-i;j++){
+            for(int j=0;j<n-1;j++){
                 if(nums[j]>nums[j+1]){
                     if(loc[j]==1){
                         if(k<=0)return -1;
