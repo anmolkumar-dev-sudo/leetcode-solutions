@@ -17,6 +17,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0419-battleships-in-a-board](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0436-find-right-interval](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -82,6 +83,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0018-4sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0018-4sum) |
 | [0436-find-right-interval](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -109,6 +111,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0202-happy-number](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
