@@ -26,7 +26,17 @@ public:
     int minimumBeautifulSubstrings(string s) {
         int n=s.length();
         vector<int>dp(n+1,INT_MAX);
-        int ans=fun(s,0,dp);
-        return (ans==INT_MAX)? -1:ans;
+        dp[n]=0;
+        for(int i=n-1;i>=0;i--){
+            string t="";
+            for(int j=i;j<n;j++){
+                if(s[i]=='0')break;
+                t+=s[j];
+                if(isDivisibleBy5(t)){
+                    if(dp[j+1]!=INT_MAX)dp[i]=min(dp[i],1+dp[j+1]);
+                }
+            }
+        }
+        return (dp[0]==INT_MAX)? -1:dp[0];
     }
 };
