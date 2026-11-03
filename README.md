@@ -50,6 +50,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0930-binary-subarrays-with-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -80,6 +81,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2409-count-days-spent-together](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
@@ -200,6 +202,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [1043-partition-array-for-maximum-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3665-twisted-mirror-path-count](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [4040-minimum-operations-to-form-subset-sum-i](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/4040-minimum-operations-to-form-subset-sum-i) |
@@ -255,6 +258,7 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
