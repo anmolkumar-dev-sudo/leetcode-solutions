@@ -70,6 +70,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0005-longest-palindromic-substring](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0132-palindrome-partitioning-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0224-basic-calculator](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -198,6 +199,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0005-longest-palindromic-substring](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
