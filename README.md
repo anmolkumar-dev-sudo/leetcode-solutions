@@ -59,6 +59,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0239-sliding-window-maximum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
@@ -76,6 +77,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [1143-longest-common-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2409-count-days-spent-together](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
@@ -128,6 +130,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3904-smallest-stable-index-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Pigeonhole Principle
 |  |
@@ -140,6 +143,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0633-sum-of-square-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Tree
 |  |
