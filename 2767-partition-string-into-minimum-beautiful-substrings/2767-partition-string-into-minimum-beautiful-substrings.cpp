@@ -8,22 +8,25 @@ public:
         if(n==1)return true;
         return false;
     }
-    int fun(string &s,int i){
+    int fun(string &s,int i,vector<int>&dp){
         int n=s.length();
         if(i==n)return 0;
         string t="";
-        int mini=INT_MAX;
+        if(dp[i]!=INT_MAX)return dp[i];
         for(int j=i;j<n;j++){
             if(s[i]=='0')continue;
             t+=s[j];
             if(isDivisibleBy5(t)){
-                int ans=fun(s,j+1);
-                if(ans!=INT_MAX)mini=min(mini,1+ans);
+                int ans=fun(s,j+1,dp);
+                if(ans!=INT_MAX)dp[i]=min(dp[i],1+ans);
             }
         }
-        return mini;
+        return dp[i];
     }
     int minimumBeautifulSubstrings(string s) {
-        return (fun(s,0)==INT_MAX)? -1:fun(s,0);
+        int n=s.length();
+        vector<int>dp(n+1,INT_MAX);
+        int ans=fun(s,0,dp);
+        return (ans==INT_MAX)? -1:ans;
     }
 };
