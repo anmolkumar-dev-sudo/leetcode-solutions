@@ -26,6 +26,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1043-partition-array-for-maximum-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
+| [1267-count-servers-that-communicate](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -114,6 +115,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1267-count-servers-that-communicate](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +171,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -224,6 +227,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0419-battleships-in-a-board](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Lifting
 |  |
@@ -250,6 +254,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0054-spiral-matrix](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
+| [1267-count-servers-that-communicate](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Simulation
@@ -334,6 +339,7 @@ this repo contains all my leetcode solutions that i have done yet.
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
 |  |
