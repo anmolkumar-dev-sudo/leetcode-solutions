@@ -1,7 +1,7 @@
 class Solution{
 public:
     int climbStairs(int n,vector<int>& costs){
-        vector<int> dp(n+1,INT_MAX);
+        vector<int> dp(n+1,INT_MAX/2);
         dp[n]=0;
         for(int i=n-1;i>=0;i--){
             int step1=costs[i]+1+dp[i+1];
