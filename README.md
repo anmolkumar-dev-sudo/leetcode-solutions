@@ -132,6 +132,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
@@ -310,6 +311,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Indexed Tree
 |  |
 | ------- |
