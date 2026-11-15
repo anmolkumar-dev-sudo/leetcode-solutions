@@ -22,6 +22,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1043-partition-array-for-maximum-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -53,6 +54,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0451-sort-characters-by-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
@@ -141,6 +143,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3904-smallest-stable-index-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
