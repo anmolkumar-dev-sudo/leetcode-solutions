@@ -91,6 +91,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
