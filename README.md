@@ -130,6 +130,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0002-add-two-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0445-add-two-numbers-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -211,6 +212,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0002-add-two-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0445-add-two-numbers-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -299,6 +301,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0224-basic-calculator](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
