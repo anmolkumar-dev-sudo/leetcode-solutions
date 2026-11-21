@@ -9,6 +9,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0018-4sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -159,6 +160,7 @@ this repo contains all my leetcode solutions that i have done yet.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0436-find-right-interval](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0633-sum-of-square-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
