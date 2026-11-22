@@ -90,6 +90,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
