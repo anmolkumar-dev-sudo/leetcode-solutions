@@ -16,6 +16,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0054-spiral-matrix](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0419-battleships-in-a-board](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0436-find-right-interval](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0436-find-right-interval) |
@@ -169,6 +170,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0033-search-in-rotated-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0436-find-right-interval](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0633-sum-of-square-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
