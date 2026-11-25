@@ -136,6 +136,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0002-add-two-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0445-add-two-numbers-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
@@ -171,6 +172,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0033-search-in-rotated-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0436-find-right-interval](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -382,4 +384,8 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
