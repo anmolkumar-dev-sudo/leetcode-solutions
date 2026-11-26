@@ -148,6 +148,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0633-sum-of-square-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2409-count-days-spent-together](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -297,6 +298,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0054-spiral-matrix](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Manacher
 |  |
