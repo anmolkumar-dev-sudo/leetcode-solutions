@@ -38,6 +38,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -78,6 +79,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0930-binary-subarrays-with-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
@@ -148,6 +150,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0523-continuous-subarray-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2409-count-days-spent-together](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3360-stone-removal-game](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -247,6 +250,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [1043-partition-array-for-maximum-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3665-twisted-mirror-path-count](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
@@ -285,6 +289,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0633-sum-of-square-numbers](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Matrix
 |  |
 | ------- |
