@@ -28,6 +28,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0930-binary-subarrays-with-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1043-partition-array-for-maximum-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -202,6 +203,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -289,6 +291,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0054-spiral-matrix](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0419-battleships-in-a-board) |
+| [0994-rotting-oranges](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1267-count-servers-that-communicate](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
