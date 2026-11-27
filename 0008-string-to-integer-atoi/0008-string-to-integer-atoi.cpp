@@ -1,39 +1,42 @@
 class Solution {
 public:
-    int intlen(long long n){
-        int x=0;
-        while(n>0){
-            n/=10;
-            x++;
-        }
-    return x;
-    }
     int myAtoi(string s) {
         int n=s.length();
-        long long num=0;
+        if(n==0)return 0;
+        string t="";
         int sign=1;
-        int k=0;
+        int idx=-1;
         for(int i=0;i<n;i++){
             if(s[i]!=' '){
-                k=i;
+                idx=i;
                 break;
             }
         }
-        if(s[k]=='-'){
-            sign=-1;
-            k++;
-        }
-        else if(s[k]=='+')k++;
-        for(int i=k;i<n;i++){
-            if((int)s[i]>=48 && (int)s[i]<=58){
-                num=(long long)num*10+(s[i]-'0');
-            }
+        if(idx==-1)return 0;
+        if(s[idx]=='-')sign=-1;
+        for(int i=idx;i<n;i++){
+            if(i==idx && (s[idx]=='-' || s[idx]=='+'))continue;
+            if(s[i]<='9' && s[i]>='0')t+=s[i];
             else break;
-            if(intlen(num)>11)break;
         }
-        num=num*sign;
-        if(num>(long long)INT_MAX-1)num=(long long)INT_MAX;
-        else if(num<=(long long)INT_MIN)num=(long long)INT_MIN;
-        return num;
+        int idx0=0;
+        for(int i=0;i<t.length();i++){
+            if(s[i]!='0'){
+                idx0=i;
+                break;
+            }
+        }
+        long long ans=0;
+        int j=idx0;
+        while(j<t.length()){
+            if(sign==-1 && sign*ans<INT_MIN)return INT_MIN;
+            if(sign==1 && sign*ans>INT_MAX)return INT_MAX;
+            ans*=10;
+            ans+=(t[j]-'0');
+            j++;
+        }
+        if(sign*ans<INT_MIN)return INT_MIN;
+        if(sign*ans>INT_MAX)return INT_MAX;
+        return ans*sign;
     }
 };
