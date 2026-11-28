@@ -87,6 +87,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
