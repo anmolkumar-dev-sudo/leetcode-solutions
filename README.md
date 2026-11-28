@@ -14,6 +14,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0035-search-insert-position](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -247,6 +248,7 @@ this repo contains all my leetcode solutions that i have done yet.
 | [0005-longest-palindromic-substring](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0055-jump-game) |
 | [0132-palindrome-partitioning-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -351,6 +353,7 @@ this repo contains all my leetcode solutions that i have done yet.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anmolkumar-dev-sudo/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
